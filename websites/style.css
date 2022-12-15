@@ -1,0 +1,105 @@
+p {
+  background-color: #be883d;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  font-family: 'Neuton', serif;;
+}
+
+h2 {
+  font-size: 2rem;
+  text-align: center;
+  font-family: 'Neuton', serif;
+}
+
+h3 {
+  font-size: 2rem;
+  text-align: center;
+  font-family: 'Neuton', serif;
+}
+
+h4 {
+  font-size: 2rem;
+  text-align: center;
+  font-family: 'Neuton', serif;
+}
+
+h5 {
+  font-size: 1.5rem;
+  font-family: 'Neuton', serif;
+}
+
+a {
+  color: black;
+  font-weight: 900;
+  text-decoration: none;
+  font-family: 'Neuton', serif;
+}
+
+header {
+  font-size: 3rem;
+  text-align: center;
+  font-family: 'Neuton', serif;
+}
+
+body {
+  background-color: #be883d;
+  color: white;
+  font-family: 'Eczar', serif;
+}
+
+#species {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+#habitats {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+#diet {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+#earlylife {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+#personality {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+#features {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+#population {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+#gallery {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+
+
+
